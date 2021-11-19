@@ -1,0 +1,25 @@
+.loancalculator{
+    height: 600px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+h1{
+    padding: 30PX;
+}
+input, select, button{
+    height: 40px;
+    width: 30%;
+}
+
+.radio{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 30px;
+   
+}
+a{
+    font-size: 25px;
+}
